@@ -1,0 +1,9 @@
+/vendor
+/config/app.php
+/composer.phar
+logs/
+tmp/
+.idea/
+/.editorconfig
+/webroot/media/
+
